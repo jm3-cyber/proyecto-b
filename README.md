@@ -39,3 +39,12 @@ Ejemplo de una lista de tareas
 - [x] Subirlo a Github
 - [ ] Terminar la clase
 
+Ejemplo de una sección de código
+
+```python
+print("Hola, cómo estás")
+if (x=5)
+   print("Ganaste")
+else
+   print("Perdiste")
+```
