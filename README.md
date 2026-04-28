@@ -48,3 +48,13 @@ if (x=5)
 else
    print("Perdiste")
 ```
+
+Tabla de verdad
+
+A  |  B  |  A AND B
+---|-----|-----------
+V  |  V  |  V
+V  |  F  |  F
+F  |  V  |  V
+F  |  F  |  F
+
