@@ -10,3 +10,21 @@ Esto es texto plano
 ### Este es un encabezado de nivel 3
 
 Esto es más texto plano
+
+Si quieren emplear cursiva, *encierren el texto entre asteriscos*
+Si quieren negrilla, **entre dobles asteriscos**
+*Pueden combinar **negrilla y cursiva** si así lo quieren*
+
+Este es un ejemplo de lista con viñetas
+* Item 1
+* Item 2
+  * Item 3 en otro nivel
+  * Item 4
+* Item 5 en el nivel original
+
+Este es un ejemplo de una lista numerada
+
+1. Primer punto
+2. Segundo punto
+   * Segundo punto a
+   * Segundo punto b 
