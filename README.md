@@ -28,3 +28,14 @@ Este es un ejemplo de una lista numerada
 2. Segundo punto
    * Segundo punto a
    * Segundo punto b 
+
+Ejemplo de un párrafo textual
+
+> "Hacer preguntas es señal de que se piensa"
+>     - R. Tagore
+
+Ejemplo de una lista de tareas
+- [x] Crear el archivo README
+- [x] Subirlo a Github
+- [ ] Terminar la clase
+
