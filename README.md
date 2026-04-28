@@ -58,3 +58,4 @@ V  |  F  |  F
 F  |  V  |  V
 F  |  F  |  F
 
+Soporte a emojis :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
