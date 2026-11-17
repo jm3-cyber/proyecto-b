@@ -8,3 +8,8 @@ Esto es texto normal
 
 ### Este es un encabezado de nivel 3
 Aquí viene más texto normal
+
+Esto es *texto en negrillas*
+Esto es _texto en cursiva_
+Y _*se pueden combinar*_
+
