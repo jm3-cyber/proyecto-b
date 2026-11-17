@@ -28,3 +28,14 @@ Ejemplo de una lista numerada
 4. Vestirse
 5. Desayunar
 
+Ejemplo de una lista con varios niveles - Lunas de los planetas
+* Tierra
+  * Luna
+* Júpiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+  * Titán
+
