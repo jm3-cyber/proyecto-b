@@ -40,8 +40,8 @@ Ejemplo de una lista con varios niveles - Lunas de los planetas
   * Titán
 
 Ejemplo de una lista de chequeo - Obtener el pasaporte
-- [ ] Obtener la cita
-- [ ] Pagar los derechos
-- [ ] Ir a la cita
+- [X] Obtener la cita
+- [X] Pagar los derechos
+- [X] Ir a la cita
 - [ ] Esperar a que llegue el documento
 
